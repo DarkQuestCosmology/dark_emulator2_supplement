@@ -1,0 +1,129 @@
+.emu-emu-table {
+  font-size: 0.6rem;
+}
+
+.emu-emu-table table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+.emu-emu-table th,
+.emu-emu-table td {
+  padding: 0.2rem 0.3rem;
+  word-break: break-all;
+}
+
+.image-range-tabs {
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 0.75rem 0.75rem 0.5rem;
+  margin: 0.5rem 0 1rem;
+}
+
+.image-range-tabs input[type="radio"],
+.image-z-tabs input[type="radio"] {
+  display: none;
+}
+
+.image-range-buttons,
+.image-z-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.image-z-buttons {
+  gap: 0.4rem;
+  margin: 0.5rem 0 0.75rem;
+}
+
+.image-range-buttons p,
+.image-z-buttons p {
+  margin: 0;
+}
+
+.image-range-buttons label,
+.image-z-buttons label {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.image-range-buttons label {
+  padding: 0.3rem 0.9rem;
+  font-size: 0.9rem;
+}
+
+.image-z-buttons label {
+  padding: 0.2rem 0.7rem;
+  font-size: 0.85rem;
+}
+
+.image-range-panel,
+.image-z-content {
+  display: none;
+}
+
+.image-range-tabs:has(#image-range-compact:checked) > .image-range-compact,
+.image-range-tabs:has(#image-range-middle:checked) > .image-range-middle,
+.image-range-tabs:has(#image-range-full:checked) > .image-range-full,
+.image-range-tabs:has(#image-range-wide:checked) > .image-range-wide,
+.image-z-tabs:has(#image-n100-z0:checked) > .image-n100-z0,
+.image-z-tabs:has(#image-n100-z1:checked) > .image-n100-z1,
+.image-z-tabs:has(#image-n100-z2:checked) > .image-n100-z2,
+.image-z-tabs:has(#image-n100-z3:checked) > .image-n100-z3,
+.image-z-tabs:has(#image-n100-z4:checked) > .image-n100-z4,
+.image-z-tabs:has(#image-n200-z0:checked) > .image-n200-z0,
+.image-z-tabs:has(#image-n200-z1:checked) > .image-n200-z1,
+.image-z-tabs:has(#image-n200-z2:checked) > .image-n200-z2,
+.image-z-tabs:has(#image-n200-z3:checked) > .image-n200-z3,
+.image-z-tabs:has(#image-n200-z4:checked) > .image-n200-z4,
+.image-z-tabs:has(#image-n500-z0:checked) > .image-n500-z0,
+.image-z-tabs:has(#image-n500-z1:checked) > .image-n500-z1,
+.image-z-tabs:has(#image-n500-z2:checked) > .image-n500-z2,
+.image-z-tabs:has(#image-n500-z3:checked) > .image-n500-z3,
+.image-z-tabs:has(#image-n500-z4:checked) > .image-n500-z4,
+.image-z-tabs:has(#image-n1000-z0:checked) > .image-n1000-z0,
+.image-z-tabs:has(#image-n1000-z1:checked) > .image-n1000-z1,
+.image-z-tabs:has(#image-n1000-z2:checked) > .image-n1000-z2,
+.image-z-tabs:has(#image-n1000-z3:checked) > .image-n1000-z3,
+.image-z-tabs:has(#image-n1000-z4:checked) > .image-n1000-z4 {
+  display: block;
+}
+
+.image-range-tabs:has(#image-range-compact:checked) .image-range-buttons label[for="image-range-compact"],
+.image-range-tabs:has(#image-range-middle:checked) .image-range-buttons label[for="image-range-middle"],
+.image-range-tabs:has(#image-range-full:checked) .image-range-buttons label[for="image-range-full"],
+.image-range-tabs:has(#image-range-wide:checked) .image-range-buttons label[for="image-range-wide"],
+.image-z-tabs:has(#image-n100-z0:checked) .image-z-buttons label[for="image-n100-z0"],
+.image-z-tabs:has(#image-n100-z1:checked) .image-z-buttons label[for="image-n100-z1"],
+.image-z-tabs:has(#image-n100-z2:checked) .image-z-buttons label[for="image-n100-z2"],
+.image-z-tabs:has(#image-n100-z3:checked) .image-z-buttons label[for="image-n100-z3"],
+.image-z-tabs:has(#image-n100-z4:checked) .image-z-buttons label[for="image-n100-z4"],
+.image-z-tabs:has(#image-n200-z0:checked) .image-z-buttons label[for="image-n200-z0"],
+.image-z-tabs:has(#image-n200-z1:checked) .image-z-buttons label[for="image-n200-z1"],
+.image-z-tabs:has(#image-n200-z2:checked) .image-z-buttons label[for="image-n200-z2"],
+.image-z-tabs:has(#image-n200-z3:checked) .image-z-buttons label[for="image-n200-z3"],
+.image-z-tabs:has(#image-n200-z4:checked) .image-z-buttons label[for="image-n200-z4"],
+.image-z-tabs:has(#image-n500-z0:checked) .image-z-buttons label[for="image-n500-z0"],
+.image-z-tabs:has(#image-n500-z1:checked) .image-z-buttons label[for="image-n500-z1"],
+.image-z-tabs:has(#image-n500-z2:checked) .image-z-buttons label[for="image-n500-z2"],
+.image-z-tabs:has(#image-n500-z3:checked) .image-z-buttons label[for="image-n500-z3"],
+.image-z-tabs:has(#image-n500-z4:checked) .image-z-buttons label[for="image-n500-z4"],
+.image-z-tabs:has(#image-n1000-z0:checked) .image-z-buttons label[for="image-n1000-z0"],
+.image-z-tabs:has(#image-n1000-z1:checked) .image-z-buttons label[for="image-n1000-z1"],
+.image-z-tabs:has(#image-n1000-z2:checked) .image-z-buttons label[for="image-n1000-z2"],
+.image-z-tabs:has(#image-n1000-z3:checked) .image-z-buttons label[for="image-n1000-z3"],
+.image-z-tabs:has(#image-n1000-z4:checked) .image-z-buttons label[for="image-n1000-z4"] {
+  background: #eee;
+  font-weight: bold;
+}
+
+@media (min-width: 992px) {
+  #quarto-content.page-layout-full main.content.column-body {
+    grid-column: body-start / body-end;
+    max-width: 1240px;
+    width: 100%;
+  }
+}
