@@ -48,7 +48,18 @@
     "href": "class_lin/class_lin.html",
     "title": "CLASS linear P(k)",
     "section": "",
-    "text": "CLASS linear P(k)\n\nLCDM\nnuLCDM\nnuwCDM\nnuw0waCDM\nnuw0waOmegaKCDM",
+    "text": "Website: CLASS\nCode: class_public GitHub\nPapers: arXiv:1104.2932, arXiv:1104.2933\nLCDM\nnuLCDM\nnuwCDM\nnuw0waCDM\nnuw0waOmegaKCDM",
+    "crumbs": [
+      "CLASS (Linear P(k))",
+      "CLASS linear P(k)"
+    ]
+  },
+  {
+    "objectID": "class_lin/class_lin.html#links",
+    "href": "class_lin/class_lin.html#links",
+    "title": "CLASS linear P(k)",
+    "section": "",
+    "text": "Website: CLASS\nCode: class_public GitHub\nPapers: arXiv:1104.2932, arXiv:1104.2933\nLCDM\nnuLCDM\nnuwCDM\nnuw0waCDM\nnuw0waOmegaKCDM",
     "crumbs": [
       "CLASS (Linear P(k))",
       "CLASS linear P(k)"
@@ -103,7 +114,18 @@
     "href": "halofit/halofit.html",
     "title": "Halofit",
     "section": "",
-    "text": "Halofit\nTakahashi et al. (2012), CLASS default settings.\n\nLCDM\nnuLCDM\nnuwCDM\nnuw0waCDM\nnuw0waOmegaKCDM",
+    "text": "Takahashi et al. (2012), CLASS default settings.\n\n\n\nPaper: Takahashi et al. 2012, arXiv:1208.2701\nMassive-neutrino correction: Bird et al. 2012, arXiv:1109.4416\nLCDM\nnuLCDM\nnuwCDM\nnuw0waCDM\nnuw0waOmegaKCDM",
+    "crumbs": [
+      "Halofit",
+      "Halofit"
+    ]
+  },
+  {
+    "objectID": "halofit/halofit.html#links",
+    "href": "halofit/halofit.html#links",
+    "title": "Halofit",
+    "section": "",
+    "text": "Paper: Takahashi et al. 2012, arXiv:1208.2701\nMassive-neutrino correction: Bird et al. 2012, arXiv:1109.4416\nLCDM\nnuLCDM\nnuwCDM\nnuw0waCDM\nnuw0waOmegaKCDM",
     "crumbs": [
       "Halofit",
       "Halofit"
@@ -158,32 +180,54 @@
     "href": "hmcode/hmcode.html",
     "title": "HMcode",
     "section": "",
-    "text": "HMcode\nMead et al. (2020), CLASS default settings.\n\nLCDM\nnuLCDM\nnuwCDM\nnuw0waCDM\nnuw0waOmegaKCDM",
+    "text": "Mead et al. (2020), CLASS default settings.\n\n\n\nCode: HMcode GitHub\nPaper: arXiv:2009.01858\nLCDM\nnuLCDM\nnuwCDM\nnuw0waCDM\nnuw0waOmegaKCDM",
     "crumbs": [
       "HMcode",
       "HMcode"
     ]
   },
   {
-    "objectID": "emu_emu/mtuagokun.html",
-    "href": "emu_emu/mtuagokun.html",
-    "title": "Mira-Titan Universe IV vs GokuNEmu",
+    "objectID": "hmcode/hmcode.html#links",
+    "href": "hmcode/hmcode.html#links",
+    "title": "HMcode",
     "section": "",
-    "text": "Mira-Titan Universe IV vs GokuNEmu\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
+    "text": "Code: HMcode GitHub\nPaper: arXiv:2009.01858\nLCDM\nnuLCDM\nnuwCDM\nnuw0waCDM\nnuw0waOmegaKCDM",
     "crumbs": [
-      "Emulator vs Emulator",
-      "Mira-Titan Universe IV vs GokuNEmu"
+      "HMcode",
+      "HMcode"
     ]
   },
   {
-    "objectID": "emu_emu/gokunale.html",
-    "href": "emu_emu/gokunale.html",
-    "title": "GokuNEmu vs Aletheia",
+    "objectID": "emu_emu/mtuale.html",
+    "href": "emu_emu/mtuale.html",
+    "title": "Mira-Titan Universe IV vs Aletheia",
     "section": "",
-    "text": "GokuNEmu vs Aletheia\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
+    "text": "Mira-Titan Universe IV vs Aletheia\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
     "crumbs": [
       "Emulator vs Emulator",
-      "GokuNEmu vs Aletheia"
+      "Mira-Titan Universe IV vs Aletheia"
+    ]
+  },
+  {
+    "objectID": "emu_emu/mtuaemu.html",
+    "href": "emu_emu/mtuaemu.html",
+    "title": "Mira-Titan Universe IV vs Aemulus \\(\\nu\\)",
+    "section": "",
+    "text": "Mira-Titan Universe IV vs Aemulus \\(\\nu\\)\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
+    "crumbs": [
+      "Emulator vs Emulator",
+      "Mira-Titan Universe IV vs Aemulus $\\nu$"
+    ]
+  },
+  {
+    "objectID": "emu_emu/gokucsst.html",
+    "href": "emu_emu/gokucsst.html",
+    "title": "GokuNEmu vs CSST Emulator",
+    "section": "",
+    "text": "GokuNEmu vs CSST Emulator\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
+    "crumbs": [
+      "Emulator vs Emulator",
+      "GokuNEmu vs CSST Emulator"
     ]
   },
   {
@@ -191,43 +235,54 @@
     "href": "emu_emu/ee2gokun.html",
     "title": "EuclidEmulator2 vs GokuNEmu",
     "section": "",
-    "text": "EuclidEmulator2 vs GokuNEmu\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
+    "text": "EuclidEmulator2 vs GokuNEmu\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
     "crumbs": [
       "Emulator vs Emulator",
       "EuclidEmulator2 vs GokuNEmu"
     ]
   },
   {
-    "objectID": "emu_emu/ee2ale.html",
-    "href": "emu_emu/ee2ale.html",
-    "title": "EuclidEmulator2 vs Aletheia",
+    "objectID": "emu_emu/ee2bc.html",
+    "href": "emu_emu/ee2bc.html",
+    "title": "EuclidEmulator2 vs BaccoEmu",
     "section": "",
-    "text": "EuclidEmulator2 vs Aletheia\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
+    "text": "EuclidEmulator2 vs BaccoEmu\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
     "crumbs": [
       "Emulator vs Emulator",
-      "EuclidEmulator2 vs Aletheia"
+      "EuclidEmulator2 vs BaccoEmu"
     ]
   },
   {
-    "objectID": "emu_emu/de2mtu.html",
-    "href": "emu_emu/de2mtu.html",
-    "title": "DarkEmulator2 vs Mira-Titan Universe IV",
+    "objectID": "emu_emu/ee2aemu.html",
+    "href": "emu_emu/ee2aemu.html",
+    "title": "EuclidEmulator2 vs Aemulus \\(\\nu\\)",
     "section": "",
-    "text": "DarkEmulator2 vs Mira-Titan Universe IV\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
+    "text": "EuclidEmulator2 vs Aemulus \\(\\nu\\)\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
     "crumbs": [
       "Emulator vs Emulator",
-      "DarkEmulator2 vs Mira-Titan Universe IV"
+      "EuclidEmulator2 vs Aemulus $\\nu$"
     ]
   },
   {
-    "objectID": "emu_emu/de2ee2.html",
-    "href": "emu_emu/de2ee2.html",
-    "title": "DarkEmulator2 vs EuclidEmulator2",
+    "objectID": "emu_emu/de2gokun.html",
+    "href": "emu_emu/de2gokun.html",
+    "title": "DarkEmulator2 vs GokuNEmu",
     "section": "",
-    "text": "DarkEmulator2 vs EuclidEmulator2\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
+    "text": "DarkEmulator2 vs GokuNEmu\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
     "crumbs": [
       "Emulator vs Emulator",
-      "DarkEmulator2 vs EuclidEmulator2"
+      "DarkEmulator2 vs GokuNEmu"
+    ]
+  },
+  {
+    "objectID": "emu_emu/de2csst.html",
+    "href": "emu_emu/de2csst.html",
+    "title": "DarkEmulator2 vs CSST Emulator",
+    "section": "",
+    "text": "DarkEmulator2 vs CSST Emulator\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
+    "crumbs": [
+      "Emulator vs Emulator",
+      "DarkEmulator2 vs CSST Emulator"
     ]
   },
   {
@@ -235,7 +290,7 @@
     "href": "emu_emu/de2ale.html",
     "title": "DarkEmulator2 vs Aletheia",
     "section": "",
-    "text": "DarkEmulator2 vs Aletheia\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
+    "text": "DarkEmulator2 vs Aletheia\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
     "crumbs": [
       "Emulator vs Emulator",
       "DarkEmulator2 vs Aletheia"
@@ -246,21 +301,32 @@
     "href": "emu_emu/bctmu.html",
     "title": "BaccoEmu vs Mira-Titan Universe IV",
     "section": "",
-    "text": "BaccoEmu vs Mira-Titan Universe IV\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
+    "text": "BaccoEmu vs Mira-Titan Universe IV\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
     "crumbs": [
       "Emulator vs Emulator",
       "BaccoEmu vs Mira-Titan Universe IV"
     ]
   },
   {
-    "objectID": "emu_emu/bcale.html",
-    "href": "emu_emu/bcale.html",
-    "title": "BaccoEmu vs Aletheia",
+    "objectID": "emu_emu/bccsst.html",
+    "href": "emu_emu/bccsst.html",
+    "title": "BaccoEmu vs CSST Emulator",
     "section": "",
-    "text": "BaccoEmu vs Aletheia\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
+    "text": "BaccoEmu vs CSST Emulator\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
     "crumbs": [
       "Emulator vs Emulator",
-      "BaccoEmu vs Aletheia"
+      "BaccoEmu vs CSST Emulator"
+    ]
+  },
+  {
+    "objectID": "emu_emu/bcaemu.html",
+    "href": "emu_emu/bcaemu.html",
+    "title": "BaccoEmu vs Aemulus \\(\\nu\\)",
+    "section": "",
+    "text": "BaccoEmu vs Aemulus \\(\\nu\\)\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
+    "crumbs": [
+      "Emulator vs Emulator",
+      "BaccoEmu vs Aemulus $\\nu$"
     ]
   },
   {
@@ -268,186 +334,441 @@
     "href": "emu_emu/aemugokun.html",
     "title": "Aemulus \\(\\nu\\) vs GokuNEmu",
     "section": "",
-    "text": "Aemulus \\(\\nu\\) vs GokuNEmu\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
+    "text": "Aemulus \\(\\nu\\) vs GokuNEmu\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
     "crumbs": [
       "Emulator vs Emulator",
       "Aemulus $\\nu$ vs GokuNEmu"
     ]
   },
   {
-    "objectID": "aletheia/aletheia_nl_tot.html",
-    "href": "aletheia/aletheia_nl_tot.html",
-    "title": "Aletheia: \\(P_\\mathrm{tot}\\)",
+    "objectID": "emu_emu/aemuale.html",
+    "href": "emu_emu/aemuale.html",
+    "title": "Aemulus \\(\\nu\\) vs Aletheia",
     "section": "",
-    "text": "https://gitlab.mpcdf.mpg.de/arielsan/aletheia\nhttps://aletheia-46606f.pages.mpcdf.de/index.html\nhttps://arxiv.org/abs/2511.13826\nSupports \\(w_0 w_a \\Omega_k \\mathrm{CDM}\\) cosmologies.\nIn Aletheia, spatial curvature is included as an input parameter, but once we allow for non-flat models the amplitudes of the linear and nonlinear matter power spectra become inconsistent. This comparison is limited to the flat universe model.\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
+    "text": "Aemulus \\(\\nu\\) vs Aletheia\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
     "crumbs": [
-      "Aletheia",
-      "Aletheia: $P_\\mathrm{tot}$"
+      "Emulator vs Emulator",
+      "Aemulus $\\nu$ vs Aletheia"
     ]
   },
   {
-    "objectID": "aletheia/aletheia_nl_tot.html#comparison-with-darkemulator2",
-    "href": "aletheia/aletheia_nl_tot.html#comparison-with-darkemulator2",
-    "title": "Aletheia: \\(P_\\mathrm{tot}\\)",
+    "objectID": "gokun/gokun_nl_tot.html",
+    "href": "gokun/gokun_nl_tot.html",
+    "title": "GokuNEmu: \\(P_\\mathrm{tot}\\)",
+    "section": "",
+    "text": "Code: GokuNEmu GitHub\nPackage: PyPI\nPaper: arXiv:2507.07177\nRelated GP version: GokuEmu GitHub, arXiv:2501.06296\nSupports \\(N_\\mathrm{eff} \\alpha_s \\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\nIn the Goku simulations, neutrino masses are assumed to follow the normal hierarchy, rather than three degenerate masses as in many other emulators. For small total masses (\\(\\Sigma m_\\nu \\lesssim 0.2\\,\\mathrm{eV}\\)), this difference leads to small but non-negligible deviations, which should be taken into account when comparing results.\n\\(N_\\mathrm{eff}\\) and \\(\\alpha_s\\) are also input parameters; because DE2 does not vary them, they are fixed at \\(N_\\mathrm{eff}=3.044\\) and \\(\\alpha_s=0\\).\n\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
+    "crumbs": [
+      "GokuNEmu",
+      "GokuNEmu: $P_\\mathrm{tot}$"
+    ]
+  },
+  {
+    "objectID": "gokun/gokun_nl_tot.html#links",
+    "href": "gokun/gokun_nl_tot.html#links",
+    "title": "GokuNEmu: \\(P_\\mathrm{tot}\\)",
+    "section": "",
+    "text": "Code: GokuNEmu GitHub\nPackage: PyPI\nPaper: arXiv:2507.07177\nRelated GP version: GokuEmu GitHub, arXiv:2501.06296\nSupports \\(N_\\mathrm{eff} \\alpha_s \\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\nIn the Goku simulations, neutrino masses are assumed to follow the normal hierarchy, rather than three degenerate masses as in many other emulators. For small total masses (\\(\\Sigma m_\\nu \\lesssim 0.2\\,\\mathrm{eV}\\)), this difference leads to small but non-negligible deviations, which should be taken into account when comparing results.\n\\(N_\\mathrm{eff}\\) and \\(\\alpha_s\\) are also input parameters; because DE2 does not vary them, they are fixed at \\(N_\\mathrm{eff}=3.044\\) and \\(\\alpha_s=0\\).",
+    "crumbs": [
+      "GokuNEmu",
+      "GokuNEmu: $P_\\mathrm{tot}$"
+    ]
+  },
+  {
+    "objectID": "gokun/gokun_nl_tot.html#comparison-with-darkemulator2",
+    "href": "gokun/gokun_nl_tot.html#comparison-with-darkemulator2",
+    "title": "GokuNEmu: \\(P_\\mathrm{tot}\\)",
     "section": "",
     "text": "compact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
     "crumbs": [
-      "Aletheia",
-      "Aletheia: $P_\\mathrm{tot}$"
-    ]
-  },
-  {
-    "objectID": "gokun/gokun_lin_tot.html",
-    "href": "gokun/gokun_lin_tot.html",
-    "title": "GokuNEmu: \\(P_\\mathrm{lin,tot}\\)",
-    "section": "",
-    "text": "https://github.com/astro-YYH/GokuNEmu\nhttps://arxiv.org/abs/2507.07177\n(GP version: https://github.com/astro-YYH/GokuEmu; https://arxiv.org/abs/2501.06296)\nSupports \\(N_\\mathrm{eff} \\alpha_s \\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\nIn the Goku simulations, neutrino masses are assumed to follow the normal hierarchy, rather than three degenerate masses as in many other emulators. For small total masses (Σmν ≲ 0.2 eV), this difference leads to small but non-negligible deviations, which should be taken into account when comparing results.\n\\(N_\\mathrm{eff}\\) and \\(\\alpha_s\\) are also input parameters; because DE2 does not vary them, they are fixed at \\(N_\\mathrm{eff}=3.044\\) and \\(\\alpha_s=0\\).\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
-    "crumbs": [
       "GokuNEmu",
-      "GokuNEmu: $P_\\mathrm{lin,tot}$"
+      "GokuNEmu: $P_\\mathrm{tot}$"
     ]
   },
   {
-    "objectID": "gokun/gokun_lin_tot.html#comparison-with-darkemulator2",
-    "href": "gokun/gokun_lin_tot.html#comparison-with-darkemulator2",
-    "title": "GokuNEmu: \\(P_\\mathrm{lin,tot}\\)",
+    "objectID": "aemulus/aemulus_nl_tot.html",
+    "href": "aemulus/aemulus_nl_tot.html",
+    "title": "Aemulus \\(\\nu\\): \\(P_\\mathrm{tot}\\)",
+    "section": "",
+    "text": "Project: Aemulus\nCode: aemulus_heft GitHub\nPaper: arXiv:2303.09762\nSupports \\(\\nu w_0 \\mathrm{CDM}\\) cosmologies.\n\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
+    "crumbs": [
+      "Aemulus",
+      "Aemulus $\\nu$: $P_\\mathrm{tot}$"
+    ]
+  },
+  {
+    "objectID": "aemulus/aemulus_nl_tot.html#links",
+    "href": "aemulus/aemulus_nl_tot.html#links",
+    "title": "Aemulus \\(\\nu\\): \\(P_\\mathrm{tot}\\)",
+    "section": "",
+    "text": "Project: Aemulus\nCode: aemulus_heft GitHub\nPaper: arXiv:2303.09762\nSupports \\(\\nu w_0 \\mathrm{CDM}\\) cosmologies.",
+    "crumbs": [
+      "Aemulus",
+      "Aemulus $\\nu$: $P_\\mathrm{tot}$"
+    ]
+  },
+  {
+    "objectID": "aemulus/aemulus_nl_tot.html#comparison-with-darkemulator2",
+    "href": "aemulus/aemulus_nl_tot.html#comparison-with-darkemulator2",
+    "title": "Aemulus \\(\\nu\\): \\(P_\\mathrm{tot}\\)",
     "section": "",
     "text": "compact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
     "crumbs": [
-      "GokuNEmu",
-      "GokuNEmu: $P_\\mathrm{lin,tot}$"
+      "Aemulus",
+      "Aemulus $\\nu$: $P_\\mathrm{tot}$"
     ]
   },
   {
-    "objectID": "bacco/bacco_nl_tot.html",
-    "href": "bacco/bacco_nl_tot.html",
-    "title": "BaccoEmu: \\(P_\\mathrm{tot}\\)",
+    "objectID": "csstemu/csstemu_nl_cb.html",
+    "href": "csstemu/csstemu_nl_cb.html",
+    "title": "CSST Emulator: \\(P_\\mathrm{cb}\\)",
     "section": "",
-    "text": "https://baccoemu.readthedocs.io/\nhttps://pypi.org/project/baccoemu/\nhttps://bitbucket.org/rangulo/baccoemu/\nhttps://arxiv.org/abs/2104.14568, https://arxiv.org/abs/2004.06245 (https://arxiv.org/abs/2011.15018)\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5",
+    "text": "Code: GitHub\nDocumentation: Read the Docs\nPaper: arXiv:2502.11160\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\n\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5",
+    "crumbs": [
+      "CSST Emulator",
+      "CSST Emulator: $P_\\mathrm{cb}$"
+    ]
+  },
+  {
+    "objectID": "csstemu/csstemu_nl_cb.html#links",
+    "href": "csstemu/csstemu_nl_cb.html#links",
+    "title": "CSST Emulator: \\(P_\\mathrm{cb}\\)",
+    "section": "",
+    "text": "Code: GitHub\nDocumentation: Read the Docs\nPaper: arXiv:2502.11160\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.",
+    "crumbs": [
+      "CSST Emulator",
+      "CSST Emulator: $P_\\mathrm{cb}$"
+    ]
+  },
+  {
+    "objectID": "csstemu/csstemu_nl_cb.html#comparison-with-darkemulator2",
+    "href": "csstemu/csstemu_nl_cb.html#comparison-with-darkemulator2",
+    "title": "CSST Emulator: \\(P_\\mathrm{cb}\\)",
+    "section": "",
+    "text": "compact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5",
+    "crumbs": [
+      "CSST Emulator",
+      "CSST Emulator: $P_\\mathrm{cb}$"
+    ]
+  },
+  {
+    "objectID": "csstemu/csstemu_lin_cb.html",
+    "href": "csstemu/csstemu_lin_cb.html",
+    "title": "CSST Emulator: \\(P_\\mathrm{lin,cb}\\)",
+    "section": "",
+    "text": "Code: GitHub\nDocumentation: Read the Docs\nPaper: arXiv:2502.11160\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\n\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5",
+    "crumbs": [
+      "CSST Emulator",
+      "CSST Emulator: $P_\\mathrm{lin,cb}$"
+    ]
+  },
+  {
+    "objectID": "csstemu/csstemu_lin_cb.html#links",
+    "href": "csstemu/csstemu_lin_cb.html#links",
+    "title": "CSST Emulator: \\(P_\\mathrm{lin,cb}\\)",
+    "section": "",
+    "text": "Code: GitHub\nDocumentation: Read the Docs\nPaper: arXiv:2502.11160\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.",
+    "crumbs": [
+      "CSST Emulator",
+      "CSST Emulator: $P_\\mathrm{lin,cb}$"
+    ]
+  },
+  {
+    "objectID": "csstemu/csstemu_lin_cb.html#comparison-with-darkemulator2",
+    "href": "csstemu/csstemu_lin_cb.html#comparison-with-darkemulator2",
+    "title": "CSST Emulator: \\(P_\\mathrm{lin,cb}\\)",
+    "section": "",
+    "text": "compact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5",
+    "crumbs": [
+      "CSST Emulator",
+      "CSST Emulator: $P_\\mathrm{lin,cb}$"
+    ]
+  },
+  {
+    "objectID": "bacco/bacco_nl_cb.html",
+    "href": "bacco/bacco_nl_cb.html",
+    "title": "BaccoEmu: \\(P_\\mathrm{cb}\\)",
+    "section": "",
+    "text": "Documentation: Read the Docs\nPackage: PyPI\nCode: Bitbucket\nPapers: arXiv:2104.14568, arXiv:2004.06245, arXiv:2303.05537, arXiv:2011.15018\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\n\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5",
     "crumbs": [
       "BaccoEmu",
-      "BaccoEmu: $P_\\mathrm{tot}$"
+      "BaccoEmu: $P_\\mathrm{cb}$"
     ]
   },
   {
-    "objectID": "bacco/bacco_nl_tot.html#comparison-with-darkemulator2",
-    "href": "bacco/bacco_nl_tot.html#comparison-with-darkemulator2",
-    "title": "BaccoEmu: \\(P_\\mathrm{tot}\\)",
+    "objectID": "bacco/bacco_nl_cb.html#links",
+    "href": "bacco/bacco_nl_cb.html#links",
+    "title": "BaccoEmu: \\(P_\\mathrm{cb}\\)",
+    "section": "",
+    "text": "Documentation: Read the Docs\nPackage: PyPI\nCode: Bitbucket\nPapers: arXiv:2104.14568, arXiv:2004.06245, arXiv:2303.05537, arXiv:2011.15018\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.",
+    "crumbs": [
+      "BaccoEmu",
+      "BaccoEmu: $P_\\mathrm{cb}$"
+    ]
+  },
+  {
+    "objectID": "bacco/bacco_nl_cb.html#comparison-with-darkemulator2",
+    "href": "bacco/bacco_nl_cb.html#comparison-with-darkemulator2",
+    "title": "BaccoEmu: \\(P_\\mathrm{cb}\\)",
     "section": "",
     "text": "compact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5",
     "crumbs": [
       "BaccoEmu",
-      "BaccoEmu: $P_\\mathrm{tot}$"
+      "BaccoEmu: $P_\\mathrm{cb}$"
     ]
   },
   {
-    "objectID": "bacco/bacco_lin_tot.html",
-    "href": "bacco/bacco_lin_tot.html",
-    "title": "BaccoEmu: \\(P_\\mathrm{lin,tot}\\)",
+    "objectID": "bacco/bacco_lin_cb.html",
+    "href": "bacco/bacco_lin_cb.html",
+    "title": "BaccoEmu: \\(P_\\mathrm{lin,cb}\\)",
     "section": "",
-    "text": "https://baccoemu.readthedocs.io/\nhttps://pypi.org/project/baccoemu/\nhttps://bitbucket.org/rangulo/baccoemu/\nhttps://arxiv.org/abs/2104.14568, https://arxiv.org/abs/2004.06245 (https://arxiv.org/abs/2011.15018)\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5",
+    "text": "Documentation: Read the Docs\nPackage: PyPI\nCode: Bitbucket\nPapers: arXiv:2104.14568, arXiv:2004.06245, arXiv:2303.05537, arXiv:2011.15018\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\n\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5",
     "crumbs": [
       "BaccoEmu",
-      "BaccoEmu: $P_\\mathrm{lin,tot}$"
+      "BaccoEmu: $P_\\mathrm{lin,cb}$"
     ]
   },
   {
-    "objectID": "bacco/bacco_lin_tot.html#comparison-with-darkemulator2",
-    "href": "bacco/bacco_lin_tot.html#comparison-with-darkemulator2",
-    "title": "BaccoEmu: \\(P_\\mathrm{lin,tot}\\)",
+    "objectID": "bacco/bacco_lin_cb.html#links",
+    "href": "bacco/bacco_lin_cb.html#links",
+    "title": "BaccoEmu: \\(P_\\mathrm{lin,cb}\\)",
+    "section": "",
+    "text": "Documentation: Read the Docs\nPackage: PyPI\nCode: Bitbucket\nPapers: arXiv:2104.14568, arXiv:2004.06245, arXiv:2303.05537, arXiv:2011.15018\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.",
+    "crumbs": [
+      "BaccoEmu",
+      "BaccoEmu: $P_\\mathrm{lin,cb}$"
+    ]
+  },
+  {
+    "objectID": "bacco/bacco_lin_cb.html#comparison-with-darkemulator2",
+    "href": "bacco/bacco_lin_cb.html#comparison-with-darkemulator2",
+    "title": "BaccoEmu: \\(P_\\mathrm{lin,cb}\\)",
     "section": "",
     "text": "compact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5",
     "crumbs": [
       "BaccoEmu",
-      "BaccoEmu: $P_\\mathrm{lin,tot}$"
+      "BaccoEmu: $P_\\mathrm{lin,cb}$"
     ]
   },
   {
-    "objectID": "ee2/ee2_nl_tot.html",
-    "href": "ee2/ee2_nl_tot.html",
-    "title": "EuclidEmulator2: \\(P_\\mathrm{tot}\\)",
+    "objectID": "ee2/ee2_lin_tot.html",
+    "href": "ee2/ee2_lin_tot.html",
+    "title": "EuclidEmulator2: \\(P_\\mathrm{lin,tot}\\)",
     "section": "",
-    "text": "https://github.com/miknab/EuclidEmulator2\nhttps://pypi.org/project/euclidemu2/\nhttps://arxiv.org/abs/2010.11288\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
+    "text": "Code: GitHub\nPackage: PyPI\nPaper: arXiv:2010.11288\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\n\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
     "crumbs": [
       "EuclidEmulator2",
-      "EuclidEmulator2: $P_\\mathrm{tot}$"
+      "EuclidEmulator2: $P_\\mathrm{lin,tot}$"
     ]
   },
   {
-    "objectID": "ee2/ee2_nl_tot.html#comparison-with-darkemulator2",
-    "href": "ee2/ee2_nl_tot.html#comparison-with-darkemulator2",
-    "title": "EuclidEmulator2: \\(P_\\mathrm{tot}\\)",
+    "objectID": "ee2/ee2_lin_tot.html#links",
+    "href": "ee2/ee2_lin_tot.html#links",
+    "title": "EuclidEmulator2: \\(P_\\mathrm{lin,tot}\\)",
+    "section": "",
+    "text": "Code: GitHub\nPackage: PyPI\nPaper: arXiv:2010.11288\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.",
+    "crumbs": [
+      "EuclidEmulator2",
+      "EuclidEmulator2: $P_\\mathrm{lin,tot}$"
+    ]
+  },
+  {
+    "objectID": "ee2/ee2_lin_tot.html#comparison-with-darkemulator2",
+    "href": "ee2/ee2_lin_tot.html#comparison-with-darkemulator2",
+    "title": "EuclidEmulator2: \\(P_\\mathrm{lin,tot}\\)",
     "section": "",
     "text": "compact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
     "crumbs": [
       "EuclidEmulator2",
-      "EuclidEmulator2: $P_\\mathrm{tot}$"
+      "EuclidEmulator2: $P_\\mathrm{lin,tot}$"
     ]
   },
   {
-    "objectID": "mtu_iv/mtu_iv_nl_tot.html",
-    "href": "mtu_iv/mtu_iv_nl_tot.html",
-    "title": "Mira-Titan Universe IV: \\(P_\\mathrm{tot}\\)",
+    "objectID": "mtu_iv/mtu_iv_nl_cb.html",
+    "href": "mtu_iv/mtu_iv_nl_cb.html",
+    "title": "Mira-Titan Universe IV: \\(P_\\mathrm{cb}\\)",
     "section": "",
-    "text": "CosmicEmu version 3.1 & Mira-Titan Universe IV\nhttps://github.com/lanl/CosmicEmu/\nhttps://arxiv.org/abs/1508.02654, https://arxiv.org/abs/1705.03388, https://arxiv.org/abs/2207.12345\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
+    "text": "CosmicEmu version 3.1 & Mira-Titan Universe IV\n\n\n\n\nCode: CosmicEmu GitHub\nPapers: arXiv:1508.02654, arXiv:1705.03388, arXiv:2207.12345\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\n\n\n\n\n\nThe relation used by MTU between \\(P_\\mathrm{cb}\\) and \\(P_\\mathrm{tot}\\) is\n\nP_\\mathrm{tot} = (P_\\mathrm{cb}^2 + P_\\mathrm{\\nu}^2)^{1/2} .\n\nTherefore, the comparison with the DE2 cb component should be interpreted only as a diagnostic, because the component definitions appear to differ.\n\nP_\\mathrm{tot}^2 = P_\\mathrm{cb}^2 + 2 P_\\mathrm{cb} P_\\mathrm{\\nu} + P_\\mathrm{\\nu}^2\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
     "crumbs": [
       "MTU IV",
-      "Mira-Titan Universe IV: $P_\\mathrm{tot}$"
+      "Mira-Titan Universe IV: $P_\\mathrm{cb}$"
     ]
   },
   {
-    "objectID": "mtu_iv/mtu_iv_nl_tot.html#comparison-with-darkemulator2",
-    "href": "mtu_iv/mtu_iv_nl_tot.html#comparison-with-darkemulator2",
-    "title": "Mira-Titan Universe IV: \\(P_\\mathrm{tot}\\)",
+    "objectID": "mtu_iv/mtu_iv_nl_cb.html#links",
+    "href": "mtu_iv/mtu_iv_nl_cb.html#links",
+    "title": "Mira-Titan Universe IV: \\(P_\\mathrm{cb}\\)",
     "section": "",
-    "text": "compact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
+    "text": "Code: CosmicEmu GitHub\nPapers: arXiv:1508.02654, arXiv:1705.03388, arXiv:2207.12345\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.",
     "crumbs": [
       "MTU IV",
-      "Mira-Titan Universe IV: $P_\\mathrm{tot}$"
+      "Mira-Titan Universe IV: $P_\\mathrm{cb}$"
     ]
   },
   {
-    "objectID": "mtu_ii/mtu_ii_nl_tot.html",
-    "href": "mtu_ii/mtu_ii_nl_tot.html",
-    "title": "Mira-Titan Universe II: \\(P_\\mathrm{tot}\\)",
+    "objectID": "mtu_iv/mtu_iv_nl_cb.html#comparison-with-darkemulator2",
+    "href": "mtu_iv/mtu_iv_nl_cb.html#comparison-with-darkemulator2",
+    "title": "Mira-Titan Universe IV: \\(P_\\mathrm{cb}\\)",
     "section": "",
-    "text": "CosmicEmu version 3 & Mira-Titan Universe II\nhttps://github.com/lanl/CosmicEmu/\nhttps://arxiv.org/abs/1508.02654, https://arxiv.org/abs/1705.03388\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
+    "text": "The relation used by MTU between \\(P_\\mathrm{cb}\\) and \\(P_\\mathrm{tot}\\) is\n\nP_\\mathrm{tot} = (P_\\mathrm{cb}^2 + P_\\mathrm{\\nu}^2)^{1/2} .\n\nTherefore, the comparison with the DE2 cb component should be interpreted only as a diagnostic, because the component definitions appear to differ.\n\nP_\\mathrm{tot}^2 = P_\\mathrm{cb}^2 + 2 P_\\mathrm{cb} P_\\mathrm{\\nu} + P_\\mathrm{\\nu}^2\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
+    "crumbs": [
+      "MTU IV",
+      "Mira-Titan Universe IV: $P_\\mathrm{cb}$"
+    ]
+  },
+  {
+    "objectID": "mtu_ii/mtu_ii_nl_cb.html",
+    "href": "mtu_ii/mtu_ii_nl_cb.html",
+    "title": "Mira-Titan Universe II: \\(P_\\mathrm{cb}\\)",
+    "section": "",
+    "text": "CosmicEmu version 3 & Mira-Titan Universe II\n\n\n\n\nCode: CosmicEmu GitHub\nPapers: arXiv:1508.02654, arXiv:1705.03388\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\n\n\n\n\n\nThe relation used by MTU between \\(P_\\mathrm{cb}\\) and \\(P_\\mathrm{tot}\\) is\n\nP_\\mathrm{tot} = (P_\\mathrm{cb}^2 + P_\\mathrm{\\nu}^2)^{1/2} .\n\nTherefore, the comparison with the DE2 cb component should be interpreted only as a diagnostic, because the component definitions appear to differ.\n\nP_\\mathrm{tot}^2 = P_\\mathrm{cb}^2 + 2 P_\\mathrm{cb} P_\\mathrm{\\nu} + P_\\mathrm{\\nu}^2\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
     "crumbs": [
       "MTU II",
-      "Mira-Titan Universe II: $P_\\mathrm{tot}$"
+      "Mira-Titan Universe II: $P_\\mathrm{cb}$"
     ]
   },
   {
-    "objectID": "mtu_ii/mtu_ii_nl_tot.html#comparison-with-darkemulator2",
-    "href": "mtu_ii/mtu_ii_nl_tot.html#comparison-with-darkemulator2",
-    "title": "Mira-Titan Universe II: \\(P_\\mathrm{tot}\\)",
+    "objectID": "mtu_ii/mtu_ii_nl_cb.html#links",
+    "href": "mtu_ii/mtu_ii_nl_cb.html#links",
+    "title": "Mira-Titan Universe II: \\(P_\\mathrm{cb}\\)",
+    "section": "",
+    "text": "Code: CosmicEmu GitHub\nPapers: arXiv:1508.02654, arXiv:1705.03388\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.",
+    "crumbs": [
+      "MTU II",
+      "Mira-Titan Universe II: $P_\\mathrm{cb}$"
+    ]
+  },
+  {
+    "objectID": "mtu_ii/mtu_ii_nl_cb.html#comparison-with-darkemulator2",
+    "href": "mtu_ii/mtu_ii_nl_cb.html#comparison-with-darkemulator2",
+    "title": "Mira-Titan Universe II: \\(P_\\mathrm{cb}\\)",
+    "section": "",
+    "text": "The relation used by MTU between \\(P_\\mathrm{cb}\\) and \\(P_\\mathrm{tot}\\) is\n\nP_\\mathrm{tot} = (P_\\mathrm{cb}^2 + P_\\mathrm{\\nu}^2)^{1/2} .\n\nTherefore, the comparison with the DE2 cb component should be interpreted only as a diagnostic, because the component definitions appear to differ.\n\nP_\\mathrm{tot}^2 = P_\\mathrm{cb}^2 + 2 P_\\mathrm{cb} P_\\mathrm{\\nu} + P_\\mathrm{\\nu}^2\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
+    "crumbs": [
+      "MTU II",
+      "Mira-Titan Universe II: $P_\\mathrm{cb}$"
+    ]
+  },
+  {
+    "objectID": "pkann/pkann_nl_tot.html",
+    "href": "pkann/pkann_nl_tot.html",
+    "title": "PkANN Emulator: \\(P_\\mathrm{tot}\\)",
+    "section": "",
+    "text": "Website: PkANN\nPapers: arXiv:1203.1695, arXiv:1312.2101\nSupports \\(\\nu w_0 \\mathrm{CDM}\\) cosmologies.\n\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
+    "crumbs": [
+      "PkANN",
+      "PkANN Emulator: $P_\\mathrm{tot}$"
+    ]
+  },
+  {
+    "objectID": "pkann/pkann_nl_tot.html#links",
+    "href": "pkann/pkann_nl_tot.html#links",
+    "title": "PkANN Emulator: \\(P_\\mathrm{tot}\\)",
+    "section": "",
+    "text": "Website: PkANN\nPapers: arXiv:1203.1695, arXiv:1312.2101\nSupports \\(\\nu w_0 \\mathrm{CDM}\\) cosmologies.",
+    "crumbs": [
+      "PkANN",
+      "PkANN Emulator: $P_\\mathrm{tot}$"
+    ]
+  },
+  {
+    "objectID": "pkann/pkann_nl_tot.html#comparison-with-darkemulator2",
+    "href": "pkann/pkann_nl_tot.html#comparison-with-darkemulator2",
+    "title": "PkANN Emulator: \\(P_\\mathrm{tot}\\)",
     "section": "",
     "text": "compact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
     "crumbs": [
-      "MTU II",
-      "Mira-Titan Universe II: $P_\\mathrm{tot}$"
+      "PkANN",
+      "PkANN Emulator: $P_\\mathrm{tot}$"
     ]
   },
   {
-    "objectID": "franken/franken_nl_tot.html",
-    "href": "franken/franken_nl_tot.html",
-    "title": "FrankenEmu: \\(P_\\mathrm{tot}\\)",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Supplementary Material",
     "section": "",
-    "text": "CosmicEmu version 2 & Coyote Universe III\nhttps://www.hep.anl.gov/cosmology/CosmicEmu/emu.html\nhttps://arxiv.org/abs/0912.4490\nSupports \\(w_0 \\mathrm{CDM}\\) cosmologies.\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
+    "text": "Satoshi Tanaka, Takahiro Nishimichi, and Yosuke Kobayashi\nThis website provides supplementary material for the emulator-comparison analysis in the DarkEmulator2 paper. It contains parameter-range comparisons, fiducial-cosmology tests, cross-comparisons among public nonlinear matter power spectrum emulators, comparisons with fitting formulas, and auxiliary checks related to the Boltzmann-code inputs.\nThe materials are intended to document the calculations underlying the comparison section of the paper and to provide additional diagnostic plots that are not included in the main text.\n\nPaper: Dark Quest II: A Wide-Coverage Neural Network Emulator of the Nonlinear Matter Power Spectrum Across Extended Cosmologies\narXiv: 2605.28596\nJournal DOI: forthcoming\nGitHub repository: dark_emulator2_public\nPyPI: dark-emulator2\nExample notebook: Comparison of public matter-power-spectrum emulators\n\n\n\n\n\nThese panels compare the parameter-space coverage of public nonlinear matter power-spectrum emulators.\nFor each parameter, horizontal segments show the supported range of each emulator.\n\nWhere necessary, we convert between physical densities and density parameters using \\(\\omega_i \\equiv \\Omega_i h^2\\) (equivalently \\(\\Omega_i = \\omega_i / h^2\\)).\n\nIn the right-hand panels:\n\nSolid lines denote the ranges of “native” input parameters used in the design of the emulator.\nDashed lines indicate the ranges of derived parameters inferred from over 1,000 Monte Carlo samples of the input parameter space.\nThe gray vertical dotted line marks the fiducial cosmology adopted for DarkEmulator2.\nParameters extending beyond the frame of this diagram have their values printed near the corresponding bar.\n\n\n \n\n\n\n\nFiducial-parameter comparison\n\n\n\n\n\nPkANN (\\(\\nu w_0 \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\)\n\nFrankenEmu (\\(w_0 \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\)\n\nMira-Titan Universe II (\\(\\nu w_0 w_a \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\), \\(P_\\mathrm{cb}\\)\n\nMira-Titan Universe IV (\\(\\nu w_0 w_a \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\), \\(P_\\mathrm{cb}\\)\n\nEuclidEmulator2 (\\(\\nu w_0 w_a \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\), \\(P_\\mathrm{lin,tot}\\)\n\nBaccoEmu (\\(\\nu w_0 w_a \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\), \\(P_\\mathrm{cb}\\), \\(P_\\mathrm{lin,tot}\\), \\(P_\\mathrm{lin,cb}\\)\n\nCSST Emulator (\\(\\nu w_0 w_a \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\), \\(P_\\mathrm{cb}\\), \\(P_\\mathrm{lin,tot}\\), \\(P_\\mathrm{lin,cb}\\)\n\nAemulus \\(\\nu\\) (\\(\\nu w_0 \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\)\n\nGokuNEmu (\\(N_\\mathrm{eff} \\alpha_s \\nu w_0 w_a \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\), \\(P_\\mathrm{lin,tot}\\)\n\nAletheia (\\(w_0 w_a \\Omega_k \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\)\n\n\n\n\n\n\nPairwise comparison of total matter \\(P(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n\n\nHMcode\nHalofit\n\n\n\n\n\nCLASS linear P(k)\n\n\n\n\n\n\\(w_0, w_a, \\Omega_{\\mathrm{k}}\\) dependence",
     "crumbs": [
-      "Franken",
-      "FrankenEmu: $P_\\mathrm{tot}$"
+      "Supplementary Material"
     ]
   },
   {
-    "objectID": "franken/franken_nl_tot.html#comparison-with-darkemulator2",
-    "href": "franken/franken_nl_tot.html#comparison-with-darkemulator2",
-    "title": "FrankenEmu: \\(P_\\mathrm{tot}\\)",
+    "objectID": "index.html#dark-quest-ii-a-wide-coverage-neural-network-emulator-of-the-nonlinear-matter-power-spectrum-across-extended-cosmologies",
+    "href": "index.html#dark-quest-ii-a-wide-coverage-neural-network-emulator-of-the-nonlinear-matter-power-spectrum-across-extended-cosmologies",
+    "title": "Supplementary Material",
     "section": "",
-    "text": "compact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
+    "text": "Satoshi Tanaka, Takahiro Nishimichi, and Yosuke Kobayashi\nThis website provides supplementary material for the emulator-comparison analysis in the DarkEmulator2 paper. It contains parameter-range comparisons, fiducial-cosmology tests, cross-comparisons among public nonlinear matter power spectrum emulators, comparisons with fitting formulas, and auxiliary checks related to the Boltzmann-code inputs.\nThe materials are intended to document the calculations underlying the comparison section of the paper and to provide additional diagnostic plots that are not included in the main text.\n\nPaper: Dark Quest II: A Wide-Coverage Neural Network Emulator of the Nonlinear Matter Power Spectrum Across Extended Cosmologies\narXiv: 2605.28596\nJournal DOI: forthcoming\nGitHub repository: dark_emulator2_public\nPyPI: dark-emulator2\nExample notebook: Comparison of public matter-power-spectrum emulators",
     "crumbs": [
-      "Franken",
-      "FrankenEmu: $P_\\mathrm{tot}$"
+      "Supplementary Material"
+    ]
+  },
+  {
+    "objectID": "index.html#parameter-space-coverage-of-public-emulators",
+    "href": "index.html#parameter-space-coverage-of-public-emulators",
+    "title": "Supplementary Material",
+    "section": "",
+    "text": "These panels compare the parameter-space coverage of public nonlinear matter power-spectrum emulators.\nFor each parameter, horizontal segments show the supported range of each emulator.\n\nWhere necessary, we convert between physical densities and density parameters using \\(\\omega_i \\equiv \\Omega_i h^2\\) (equivalently \\(\\Omega_i = \\omega_i / h^2\\)).\n\nIn the right-hand panels:\n\nSolid lines denote the ranges of “native” input parameters used in the design of the emulator.\nDashed lines indicate the ranges of derived parameters inferred from over 1,000 Monte Carlo samples of the input parameter space.\nThe gray vertical dotted line marks the fiducial cosmology adopted for DarkEmulator2.\nParameters extending beyond the frame of this diagram have their values printed near the corresponding bar.",
+    "crumbs": [
+      "Supplementary Material"
+    ]
+  },
+  {
+    "objectID": "index.html#comparison-at-the-dq2-fiducial-parameters",
+    "href": "index.html#comparison-at-the-dq2-fiducial-parameters",
+    "title": "Supplementary Material",
+    "section": "",
+    "text": "Fiducial-parameter comparison",
+    "crumbs": [
+      "Supplementary Material"
+    ]
+  },
+  {
+    "objectID": "index.html#comparison-of-public-emulators-with-de2",
+    "href": "index.html#comparison-of-public-emulators-with-de2",
+    "title": "Supplementary Material",
+    "section": "",
+    "text": "PkANN (\\(\\nu w_0 \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\)\n\nFrankenEmu (\\(w_0 \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\)\n\nMira-Titan Universe II (\\(\\nu w_0 w_a \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\), \\(P_\\mathrm{cb}\\)\n\nMira-Titan Universe IV (\\(\\nu w_0 w_a \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\), \\(P_\\mathrm{cb}\\)\n\nEuclidEmulator2 (\\(\\nu w_0 w_a \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\), \\(P_\\mathrm{lin,tot}\\)\n\nBaccoEmu (\\(\\nu w_0 w_a \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\), \\(P_\\mathrm{cb}\\), \\(P_\\mathrm{lin,tot}\\), \\(P_\\mathrm{lin,cb}\\)\n\nCSST Emulator (\\(\\nu w_0 w_a \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\), \\(P_\\mathrm{cb}\\), \\(P_\\mathrm{lin,tot}\\), \\(P_\\mathrm{lin,cb}\\)\n\nAemulus \\(\\nu\\) (\\(\\nu w_0 \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\)\n\nGokuNEmu (\\(N_\\mathrm{eff} \\alpha_s \\nu w_0 w_a \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\), \\(P_\\mathrm{lin,tot}\\)\n\nAletheia (\\(w_0 w_a \\Omega_k \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\)",
+    "crumbs": [
+      "Supplementary Material"
+    ]
+  },
+  {
+    "objectID": "index.html#pairwise-emulator-comparisons",
+    "href": "index.html#pairwise-emulator-comparisons",
+    "title": "Supplementary Material",
+    "section": "",
+    "text": "Pairwise comparison of total matter \\(P(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-",
+    "crumbs": [
+      "Supplementary Material"
+    ]
+  },
+  {
+    "objectID": "index.html#comparison-with-fitting-functions",
+    "href": "index.html#comparison-with-fitting-functions",
+    "title": "Supplementary Material",
+    "section": "",
+    "text": "HMcode\nHalofit",
+    "crumbs": [
+      "Supplementary Material"
+    ]
+  },
+  {
+    "objectID": "index.html#boltzmann-code-comparison",
+    "href": "index.html#boltzmann-code-comparison",
+    "title": "Supplementary Material",
+    "section": "",
+    "text": "CLASS linear P(k)",
+    "crumbs": [
+      "Supplementary Material"
+    ]
+  },
+  {
+    "objectID": "index.html#parameter-dependence-of-p_mathrmlinclass",
+    "href": "index.html#parameter-dependence-of-p_mathrmlinclass",
+    "title": "Supplementary Material",
+    "section": "",
+    "text": "\\(w_0, w_a, \\Omega_{\\mathrm{k}}\\) dependence",
+    "crumbs": [
+      "Supplementary Material"
     ]
   },
   {
@@ -484,291 +805,366 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Supplementary Material",
+    "objectID": "franken/franken_nl_tot.html",
+    "href": "franken/franken_nl_tot.html",
+    "title": "FrankenEmu: \\(P_\\mathrm{tot}\\)",
     "section": "",
-    "text": "Satoshi Tanaka, Takahiro Nishimichi, and Yosuke Kobayashi\nThis website provides supplementary material for the emulator-comparison analysis in the DarkEmulator2 paper. It contains parameter-range comparisons, fiducial-cosmology tests, cross-comparisons among public nonlinear matter power spectrum emulators, comparisons with fitting formulas, and auxiliary checks related to the Boltzmann-code inputs.\nThe materials are intended to document the calculations underlying the comparison section of the paper and to provide additional diagnostic plots that are not included in the main text.\n\nManuscript version: forthcoming\nPaper: forthcoming\narXiv: forthcoming\nJournal DOI: forthcoming\nSupplementary material DOI: forthcoming\nGitHub repository: https://github.com/DarkQuestCosmology/dark_emulator2_public/\nPyPI: https://pypi.org/project/dark-emulator2/\n\n\n\n\n\nThese panels compare the parameter-space coverage of public nonlinear matter power-spectrum emulators.\nFor each parameter, horizontal segments show the supported range of each emulator.\n\nWhere necessary, we convert between physical densities and density parameters using \\(\\omega_i \\equiv \\Omega_i h^2\\) (equivalently \\(\\Omega_i = \\omega_i / h^2\\)).\n\nIn the right-hand panels:\n\nSolid lines denote the ranges of “native” input parameters used in the design of the emulator.\nDashed lines indicate the ranges of derived parameters inferred from over 1,000 Monte Carlo samples of the input parameter space.\nThe gray vertical dotted line marks the fiducial cosmology adopted for DarkEmulator2.\nParameters extending beyond the frame of this diagram have their values printed near the corresponding bar.\n\n\n \n\n\n\n\nFiducial-parameter comparison\n\n\n\n\n\nPkANN (\\(\\nu w_0 \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\)\n\nFrankenEmu (\\(w_0 \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\)\n\nMira-Titan Universe II (\\(\\nu w_0 w_a \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\), \\(P_\\mathrm{cb}\\)\n\nMira-Titan Universe IV (\\(\\nu w_0 w_a \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\), \\(P_\\mathrm{cb}\\)\n\nEuclidEmulator2 (\\(\\nu w_0 w_a \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\), \\(P_\\mathrm{lin,tot}\\)\n\nBaccoEmu (\\(\\nu w_0 w_a \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\), \\(P_\\mathrm{cb}\\), \\(P_\\mathrm{lin,tot}\\), \\(P_\\mathrm{lin,cb}\\)\n\nAemulus \\(\\nu\\) (\\(\\nu w_0 \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\)\n\nGokuNEmu (\\(N_\\mathrm{eff} \\alpha_s \\nu w_0 w_a \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\), \\(P_\\mathrm{lin,tot}\\)\n\nAletheia (\\(w_0 w_a \\Omega_k \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\)\n\n\n\n\n\n\nPairwise comparison of total matter \\(P(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n\n\n\n\n\n\n\n\nHMcode\nHalofit\n\n\n\n\n\nCLASS linear P(k)\n\n\n\n\n\n\\(w_0, w_a, \\Omega_{\\mathrm{k}}\\) dependence",
+    "text": "CosmicEmu version 2 & Coyote Universe III\n\n\n\n\nWebsite: CosmicEmu\nPaper: arXiv:0912.4490\nSupports \\(w_0 \\mathrm{CDM}\\) cosmologies.\n\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
     "crumbs": [
-      "Supplementary Material"
+      "Franken",
+      "FrankenEmu: $P_\\mathrm{tot}$"
     ]
   },
   {
-    "objectID": "index.html#dark-quest-ii-a-wide-coverage-neural-network-emulator-of-the-nonlinear-matter-power-spectrum-across-extended-cosmologies",
-    "href": "index.html#dark-quest-ii-a-wide-coverage-neural-network-emulator-of-the-nonlinear-matter-power-spectrum-across-extended-cosmologies",
-    "title": "Supplementary Material",
+    "objectID": "franken/franken_nl_tot.html#links",
+    "href": "franken/franken_nl_tot.html#links",
+    "title": "FrankenEmu: \\(P_\\mathrm{tot}\\)",
     "section": "",
-    "text": "Satoshi Tanaka, Takahiro Nishimichi, and Yosuke Kobayashi\nThis website provides supplementary material for the emulator-comparison analysis in the DarkEmulator2 paper. It contains parameter-range comparisons, fiducial-cosmology tests, cross-comparisons among public nonlinear matter power spectrum emulators, comparisons with fitting formulas, and auxiliary checks related to the Boltzmann-code inputs.\nThe materials are intended to document the calculations underlying the comparison section of the paper and to provide additional diagnostic plots that are not included in the main text.\n\nManuscript version: forthcoming\nPaper: forthcoming\narXiv: forthcoming\nJournal DOI: forthcoming\nSupplementary material DOI: forthcoming\nGitHub repository: https://github.com/DarkQuestCosmology/dark_emulator2_public/\nPyPI: https://pypi.org/project/dark-emulator2/",
+    "text": "Website: CosmicEmu\nPaper: arXiv:0912.4490\nSupports \\(w_0 \\mathrm{CDM}\\) cosmologies.",
     "crumbs": [
-      "Supplementary Material"
+      "Franken",
+      "FrankenEmu: $P_\\mathrm{tot}$"
     ]
   },
   {
-    "objectID": "index.html#parameter-space-coverage-of-public-emulators",
-    "href": "index.html#parameter-space-coverage-of-public-emulators",
-    "title": "Supplementary Material",
-    "section": "",
-    "text": "These panels compare the parameter-space coverage of public nonlinear matter power-spectrum emulators.\nFor each parameter, horizontal segments show the supported range of each emulator.\n\nWhere necessary, we convert between physical densities and density parameters using \\(\\omega_i \\equiv \\Omega_i h^2\\) (equivalently \\(\\Omega_i = \\omega_i / h^2\\)).\n\nIn the right-hand panels:\n\nSolid lines denote the ranges of “native” input parameters used in the design of the emulator.\nDashed lines indicate the ranges of derived parameters inferred from over 1,000 Monte Carlo samples of the input parameter space.\nThe gray vertical dotted line marks the fiducial cosmology adopted for DarkEmulator2.\nParameters extending beyond the frame of this diagram have their values printed near the corresponding bar.",
-    "crumbs": [
-      "Supplementary Material"
-    ]
-  },
-  {
-    "objectID": "index.html#comparison-at-the-dq2-fiducial-parameters",
-    "href": "index.html#comparison-at-the-dq2-fiducial-parameters",
-    "title": "Supplementary Material",
-    "section": "",
-    "text": "Fiducial-parameter comparison",
-    "crumbs": [
-      "Supplementary Material"
-    ]
-  },
-  {
-    "objectID": "index.html#comparison-of-public-emulators-with-de2",
-    "href": "index.html#comparison-of-public-emulators-with-de2",
-    "title": "Supplementary Material",
-    "section": "",
-    "text": "PkANN (\\(\\nu w_0 \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\)\n\nFrankenEmu (\\(w_0 \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\)\n\nMira-Titan Universe II (\\(\\nu w_0 w_a \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\), \\(P_\\mathrm{cb}\\)\n\nMira-Titan Universe IV (\\(\\nu w_0 w_a \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\), \\(P_\\mathrm{cb}\\)\n\nEuclidEmulator2 (\\(\\nu w_0 w_a \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\), \\(P_\\mathrm{lin,tot}\\)\n\nBaccoEmu (\\(\\nu w_0 w_a \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\), \\(P_\\mathrm{cb}\\), \\(P_\\mathrm{lin,tot}\\), \\(P_\\mathrm{lin,cb}\\)\n\nAemulus \\(\\nu\\) (\\(\\nu w_0 \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\)\n\nGokuNEmu (\\(N_\\mathrm{eff} \\alpha_s \\nu w_0 w_a \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\), \\(P_\\mathrm{lin,tot}\\)\n\nAletheia (\\(w_0 w_a \\Omega_k \\mathrm{CDM}\\))\n\n\\(P_\\mathrm{tot}\\)",
-    "crumbs": [
-      "Supplementary Material"
-    ]
-  },
-  {
-    "objectID": "index.html#pairwise-emulator-comparisons",
-    "href": "index.html#pairwise-emulator-comparisons",
-    "title": "Supplementary Material",
-    "section": "",
-    "text": "Pairwise comparison of total matter \\(P(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia",
-    "crumbs": [
-      "Supplementary Material"
-    ]
-  },
-  {
-    "objectID": "index.html#comparison-with-fitting-functions",
-    "href": "index.html#comparison-with-fitting-functions",
-    "title": "Supplementary Material",
-    "section": "",
-    "text": "HMcode\nHalofit",
-    "crumbs": [
-      "Supplementary Material"
-    ]
-  },
-  {
-    "objectID": "index.html#boltzmann-code-comparison",
-    "href": "index.html#boltzmann-code-comparison",
-    "title": "Supplementary Material",
-    "section": "",
-    "text": "CLASS linear P(k)",
-    "crumbs": [
-      "Supplementary Material"
-    ]
-  },
-  {
-    "objectID": "index.html#parameter-dependence-of-p_mathrmlinclass",
-    "href": "index.html#parameter-dependence-of-p_mathrmlinclass",
-    "title": "Supplementary Material",
-    "section": "",
-    "text": "\\(w_0, w_a, \\Omega_{\\mathrm{k}}\\) dependence",
-    "crumbs": [
-      "Supplementary Material"
-    ]
-  },
-  {
-    "objectID": "pkann/pkann_nl_tot.html",
-    "href": "pkann/pkann_nl_tot.html",
-    "title": "PkANN Emulator: \\(P_\\mathrm{tot}\\)",
-    "section": "",
-    "text": "https://zuserver2.star.ucl.ac.uk/~fba/PkANN/\nhttps://arxiv.org/abs/1203.1695, https://arxiv.org/abs/1312.2101\nSupports \\(\\nu w_0 \\mathrm{CDM}\\) cosmologies.\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
-    "crumbs": [
-      "PkANN",
-      "PkANN Emulator: $P_\\mathrm{tot}$"
-    ]
-  },
-  {
-    "objectID": "pkann/pkann_nl_tot.html#comparison-with-darkemulator2",
-    "href": "pkann/pkann_nl_tot.html#comparison-with-darkemulator2",
-    "title": "PkANN Emulator: \\(P_\\mathrm{tot}\\)",
+    "objectID": "franken/franken_nl_tot.html#comparison-with-darkemulator2",
+    "href": "franken/franken_nl_tot.html#comparison-with-darkemulator2",
+    "title": "FrankenEmu: \\(P_\\mathrm{tot}\\)",
     "section": "",
     "text": "compact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
     "crumbs": [
-      "PkANN",
-      "PkANN Emulator: $P_\\mathrm{tot}$"
+      "Franken",
+      "FrankenEmu: $P_\\mathrm{tot}$"
     ]
   },
   {
-    "objectID": "mtu_ii/mtu_ii_nl_cb.html",
-    "href": "mtu_ii/mtu_ii_nl_cb.html",
-    "title": "Mira-Titan Universe II: \\(P_\\mathrm{cb}\\)",
+    "objectID": "mtu_ii/mtu_ii_nl_tot.html",
+    "href": "mtu_ii/mtu_ii_nl_tot.html",
+    "title": "Mira-Titan Universe II: \\(P_\\mathrm{tot}\\)",
     "section": "",
-    "text": "CosmicEmu version 3 & Mira-Titan Universe II\nhttps://github.com/lanl/CosmicEmu/\nhttps://arxiv.org/abs/1508.02654, https://arxiv.org/abs/1705.03388\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\n\n\n\n\nThe relation used by MTU between \\(P_\\mathrm{cb}\\) and \\(P_\\mathrm{tot}\\) is\n\nP_\\mathrm{tot} = (P_\\mathrm{cb}^2 + P_\\mathrm{\\nu}^2)^{1/2} .\n\nTherefore, the comparison with the DE2 cb component should be interpreted only as a diagnostic, because the component definitions appear to differ.\n\nP_\\mathrm{tot}^2 = P_\\mathrm{cb}^2 + 2 P_\\mathrm{cb} P_\\mathrm{\\nu} + P_\\mathrm{\\nu}^2\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
+    "text": "CosmicEmu version 3 & Mira-Titan Universe II\n\n\n\n\nCode: CosmicEmu GitHub\nPapers: arXiv:1508.02654, arXiv:1705.03388\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\n\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
     "crumbs": [
       "MTU II",
-      "Mira-Titan Universe II: $P_\\mathrm{cb}$"
+      "Mira-Titan Universe II: $P_\\mathrm{tot}$"
     ]
   },
   {
-    "objectID": "mtu_ii/mtu_ii_nl_cb.html#comparison-with-darkemulator2",
-    "href": "mtu_ii/mtu_ii_nl_cb.html#comparison-with-darkemulator2",
-    "title": "Mira-Titan Universe II: \\(P_\\mathrm{cb}\\)",
+    "objectID": "mtu_ii/mtu_ii_nl_tot.html#links",
+    "href": "mtu_ii/mtu_ii_nl_tot.html#links",
+    "title": "Mira-Titan Universe II: \\(P_\\mathrm{tot}\\)",
     "section": "",
-    "text": "The relation used by MTU between \\(P_\\mathrm{cb}\\) and \\(P_\\mathrm{tot}\\) is\n\nP_\\mathrm{tot} = (P_\\mathrm{cb}^2 + P_\\mathrm{\\nu}^2)^{1/2} .\n\nTherefore, the comparison with the DE2 cb component should be interpreted only as a diagnostic, because the component definitions appear to differ.\n\nP_\\mathrm{tot}^2 = P_\\mathrm{cb}^2 + 2 P_\\mathrm{cb} P_\\mathrm{\\nu} + P_\\mathrm{\\nu}^2\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
+    "text": "Code: CosmicEmu GitHub\nPapers: arXiv:1508.02654, arXiv:1705.03388\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.",
     "crumbs": [
       "MTU II",
-      "Mira-Titan Universe II: $P_\\mathrm{cb}$"
+      "Mira-Titan Universe II: $P_\\mathrm{tot}$"
     ]
   },
   {
-    "objectID": "mtu_iv/mtu_iv_nl_cb.html",
-    "href": "mtu_iv/mtu_iv_nl_cb.html",
-    "title": "Mira-Titan Universe IV: \\(P_\\mathrm{cb}\\)",
+    "objectID": "mtu_ii/mtu_ii_nl_tot.html#comparison-with-darkemulator2",
+    "href": "mtu_ii/mtu_ii_nl_tot.html#comparison-with-darkemulator2",
+    "title": "Mira-Titan Universe II: \\(P_\\mathrm{tot}\\)",
     "section": "",
-    "text": "CosmicEmu version 3.1 & Mira-Titan Universe IV\nhttps://github.com/lanl/CosmicEmu/\nhttps://arxiv.org/abs/1508.02654, https://arxiv.org/abs/1705.03388, https://arxiv.org/abs/2207.12345\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\n\n\n\n\nThe relation used by MTU between \\(P_\\mathrm{cb}\\) and \\(P_\\mathrm{tot}\\) is\n\nP_\\mathrm{tot} = (P_\\mathrm{cb}^2 + P_\\mathrm{\\nu}^2)^{1/2} .\n\nTherefore, the comparison with the DE2 cb component should be interpreted only as a diagnostic, because the component definitions appear to differ.\n\nP_\\mathrm{tot}^2 = P_\\mathrm{cb}^2 + 2 P_\\mathrm{cb} P_\\mathrm{\\nu} + P_\\mathrm{\\nu}^2\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
+    "text": "compact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
+    "crumbs": [
+      "MTU II",
+      "Mira-Titan Universe II: $P_\\mathrm{tot}$"
+    ]
+  },
+  {
+    "objectID": "mtu_iv/mtu_iv_nl_tot.html",
+    "href": "mtu_iv/mtu_iv_nl_tot.html",
+    "title": "Mira-Titan Universe IV: \\(P_\\mathrm{tot}\\)",
+    "section": "",
+    "text": "CosmicEmu version 3.1 & Mira-Titan Universe IV\n\n\n\n\nCode: CosmicEmu GitHub\nPapers: arXiv:1508.02654, arXiv:1705.03388, arXiv:2207.12345\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\n\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
     "crumbs": [
       "MTU IV",
-      "Mira-Titan Universe IV: $P_\\mathrm{cb}$"
+      "Mira-Titan Universe IV: $P_\\mathrm{tot}$"
     ]
   },
   {
-    "objectID": "mtu_iv/mtu_iv_nl_cb.html#comparison-with-darkemulator2",
-    "href": "mtu_iv/mtu_iv_nl_cb.html#comparison-with-darkemulator2",
-    "title": "Mira-Titan Universe IV: \\(P_\\mathrm{cb}\\)",
+    "objectID": "mtu_iv/mtu_iv_nl_tot.html#links",
+    "href": "mtu_iv/mtu_iv_nl_tot.html#links",
+    "title": "Mira-Titan Universe IV: \\(P_\\mathrm{tot}\\)",
     "section": "",
-    "text": "The relation used by MTU between \\(P_\\mathrm{cb}\\) and \\(P_\\mathrm{tot}\\) is\n\nP_\\mathrm{tot} = (P_\\mathrm{cb}^2 + P_\\mathrm{\\nu}^2)^{1/2} .\n\nTherefore, the comparison with the DE2 cb component should be interpreted only as a diagnostic, because the component definitions appear to differ.\n\nP_\\mathrm{tot}^2 = P_\\mathrm{cb}^2 + 2 P_\\mathrm{cb} P_\\mathrm{\\nu} + P_\\mathrm{\\nu}^2\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
+    "text": "Code: CosmicEmu GitHub\nPapers: arXiv:1508.02654, arXiv:1705.03388, arXiv:2207.12345\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.",
     "crumbs": [
       "MTU IV",
-      "Mira-Titan Universe IV: $P_\\mathrm{cb}$"
+      "Mira-Titan Universe IV: $P_\\mathrm{tot}$"
     ]
   },
   {
-    "objectID": "ee2/ee2_lin_tot.html",
-    "href": "ee2/ee2_lin_tot.html",
-    "title": "EuclidEmulator2: \\(P_\\mathrm{lin,tot}\\)",
+    "objectID": "mtu_iv/mtu_iv_nl_tot.html#comparison-with-darkemulator2",
+    "href": "mtu_iv/mtu_iv_nl_tot.html#comparison-with-darkemulator2",
+    "title": "Mira-Titan Universe IV: \\(P_\\mathrm{tot}\\)",
     "section": "",
-    "text": "https://github.com/miknab/EuclidEmulator2\nhttps://pypi.org/project/euclidemu2/\nhttps://arxiv.org/abs/2010.11288\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
+    "text": "compact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
+    "crumbs": [
+      "MTU IV",
+      "Mira-Titan Universe IV: $P_\\mathrm{tot}$"
+    ]
+  },
+  {
+    "objectID": "ee2/ee2_nl_tot.html",
+    "href": "ee2/ee2_nl_tot.html",
+    "title": "EuclidEmulator2: \\(P_\\mathrm{tot}\\)",
+    "section": "",
+    "text": "Code: GitHub\nPackage: PyPI\nPaper: arXiv:2010.11288\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\n\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
     "crumbs": [
       "EuclidEmulator2",
-      "EuclidEmulator2: $P_\\mathrm{lin,tot}$"
+      "EuclidEmulator2: $P_\\mathrm{tot}$"
     ]
   },
   {
-    "objectID": "ee2/ee2_lin_tot.html#comparison-with-darkemulator2",
-    "href": "ee2/ee2_lin_tot.html#comparison-with-darkemulator2",
-    "title": "EuclidEmulator2: \\(P_\\mathrm{lin,tot}\\)",
+    "objectID": "ee2/ee2_nl_tot.html#links",
+    "href": "ee2/ee2_nl_tot.html#links",
+    "title": "EuclidEmulator2: \\(P_\\mathrm{tot}\\)",
+    "section": "",
+    "text": "Code: GitHub\nPackage: PyPI\nPaper: arXiv:2010.11288\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.",
+    "crumbs": [
+      "EuclidEmulator2",
+      "EuclidEmulator2: $P_\\mathrm{tot}$"
+    ]
+  },
+  {
+    "objectID": "ee2/ee2_nl_tot.html#comparison-with-darkemulator2",
+    "href": "ee2/ee2_nl_tot.html#comparison-with-darkemulator2",
+    "title": "EuclidEmulator2: \\(P_\\mathrm{tot}\\)",
     "section": "",
     "text": "compact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
     "crumbs": [
       "EuclidEmulator2",
-      "EuclidEmulator2: $P_\\mathrm{lin,tot}$"
+      "EuclidEmulator2: $P_\\mathrm{tot}$"
     ]
   },
   {
-    "objectID": "bacco/bacco_lin_cb.html",
-    "href": "bacco/bacco_lin_cb.html",
-    "title": "BaccoEmu: \\(P_\\mathrm{lin,cb}\\)",
+    "objectID": "bacco/bacco_lin_tot.html",
+    "href": "bacco/bacco_lin_tot.html",
+    "title": "BaccoEmu: \\(P_\\mathrm{lin,tot}\\)",
     "section": "",
-    "text": "https://baccoemu.readthedocs.io/\nhttps://pypi.org/project/baccoemu/\nhttps://bitbucket.org/rangulo/baccoemu/\nhttps://arxiv.org/abs/2104.14568, https://arxiv.org/abs/2004.06245 (https://arxiv.org/abs/2011.15018)\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5",
+    "text": "Documentation: Read the Docs\nPackage: PyPI\nCode: Bitbucket\nPapers: arXiv:2104.14568, arXiv:2004.06245, arXiv:2303.05537, arXiv:2011.15018\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\n\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5",
     "crumbs": [
       "BaccoEmu",
-      "BaccoEmu: $P_\\mathrm{lin,cb}$"
+      "BaccoEmu: $P_\\mathrm{lin,tot}$"
     ]
   },
   {
-    "objectID": "bacco/bacco_lin_cb.html#comparison-with-darkemulator2",
-    "href": "bacco/bacco_lin_cb.html#comparison-with-darkemulator2",
-    "title": "BaccoEmu: \\(P_\\mathrm{lin,cb}\\)",
+    "objectID": "bacco/bacco_lin_tot.html#links",
+    "href": "bacco/bacco_lin_tot.html#links",
+    "title": "BaccoEmu: \\(P_\\mathrm{lin,tot}\\)",
+    "section": "",
+    "text": "Documentation: Read the Docs\nPackage: PyPI\nCode: Bitbucket\nPapers: arXiv:2104.14568, arXiv:2004.06245, arXiv:2303.05537, arXiv:2011.15018\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.",
+    "crumbs": [
+      "BaccoEmu",
+      "BaccoEmu: $P_\\mathrm{lin,tot}$"
+    ]
+  },
+  {
+    "objectID": "bacco/bacco_lin_tot.html#comparison-with-darkemulator2",
+    "href": "bacco/bacco_lin_tot.html#comparison-with-darkemulator2",
+    "title": "BaccoEmu: \\(P_\\mathrm{lin,tot}\\)",
     "section": "",
     "text": "compact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5",
     "crumbs": [
       "BaccoEmu",
-      "BaccoEmu: $P_\\mathrm{lin,cb}$"
+      "BaccoEmu: $P_\\mathrm{lin,tot}$"
     ]
   },
   {
-    "objectID": "bacco/bacco_nl_cb.html",
-    "href": "bacco/bacco_nl_cb.html",
-    "title": "BaccoEmu: \\(P_\\mathrm{cb}\\)",
+    "objectID": "bacco/bacco_nl_tot.html",
+    "href": "bacco/bacco_nl_tot.html",
+    "title": "BaccoEmu: \\(P_\\mathrm{tot}\\)",
     "section": "",
-    "text": "https://baccoemu.readthedocs.io/\nhttps://pypi.org/project/baccoemu/\nhttps://bitbucket.org/rangulo/baccoemu/\nhttps://arxiv.org/abs/2104.14568, https://arxiv.org/abs/2004.06245 (https://arxiv.org/abs/2011.15018)\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5",
+    "text": "Documentation: Read the Docs\nPackage: PyPI\nCode: Bitbucket\nPapers: arXiv:2104.14568, arXiv:2004.06245, arXiv:2303.05537, arXiv:2011.15018\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\n\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5",
     "crumbs": [
       "BaccoEmu",
-      "BaccoEmu: $P_\\mathrm{cb}$"
+      "BaccoEmu: $P_\\mathrm{tot}$"
     ]
   },
   {
-    "objectID": "bacco/bacco_nl_cb.html#comparison-with-darkemulator2",
-    "href": "bacco/bacco_nl_cb.html#comparison-with-darkemulator2",
-    "title": "BaccoEmu: \\(P_\\mathrm{cb}\\)",
+    "objectID": "bacco/bacco_nl_tot.html#links",
+    "href": "bacco/bacco_nl_tot.html#links",
+    "title": "BaccoEmu: \\(P_\\mathrm{tot}\\)",
+    "section": "",
+    "text": "Documentation: Read the Docs\nPackage: PyPI\nCode: Bitbucket\nPapers: arXiv:2104.14568, arXiv:2004.06245, arXiv:2303.05537, arXiv:2011.15018\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.",
+    "crumbs": [
+      "BaccoEmu",
+      "BaccoEmu: $P_\\mathrm{tot}$"
+    ]
+  },
+  {
+    "objectID": "bacco/bacco_nl_tot.html#comparison-with-darkemulator2",
+    "href": "bacco/bacco_nl_tot.html#comparison-with-darkemulator2",
+    "title": "BaccoEmu: \\(P_\\mathrm{tot}\\)",
     "section": "",
     "text": "compact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5",
     "crumbs": [
       "BaccoEmu",
-      "BaccoEmu: $P_\\mathrm{cb}$"
+      "BaccoEmu: $P_\\mathrm{tot}$"
     ]
   },
   {
-    "objectID": "aemulus/aemulus_nl_tot.html",
-    "href": "aemulus/aemulus_nl_tot.html",
-    "title": "Aemulus \\(\\nu\\): \\(P_\\mathrm{tot}\\)",
+    "objectID": "csstemu/csstemu_lin_tot.html",
+    "href": "csstemu/csstemu_lin_tot.html",
+    "title": "CSST Emulator: \\(P_\\mathrm{lin,tot}\\)",
     "section": "",
-    "text": "https://aemulusproject.github.io/\nhttps://github.com/AemulusProject/aemulus_heft\nhttps://arxiv.org/abs/2303.09762\nSupports \\(\\nu w_0 \\mathrm{CDM}\\) cosmologies.\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
+    "text": "Code: GitHub\nDocumentation: Read the Docs\nPaper: arXiv:2502.11160\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\n\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5",
     "crumbs": [
-      "Aemulus",
-      "Aemulus $\\nu$: $P_\\mathrm{tot}$"
+      "CSST Emulator",
+      "CSST Emulator: $P_\\mathrm{lin,tot}$"
     ]
   },
   {
-    "objectID": "aemulus/aemulus_nl_tot.html#comparison-with-darkemulator2",
-    "href": "aemulus/aemulus_nl_tot.html#comparison-with-darkemulator2",
-    "title": "Aemulus \\(\\nu\\): \\(P_\\mathrm{tot}\\)",
+    "objectID": "csstemu/csstemu_lin_tot.html#links",
+    "href": "csstemu/csstemu_lin_tot.html#links",
+    "title": "CSST Emulator: \\(P_\\mathrm{lin,tot}\\)",
+    "section": "",
+    "text": "Code: GitHub\nDocumentation: Read the Docs\nPaper: arXiv:2502.11160\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.",
+    "crumbs": [
+      "CSST Emulator",
+      "CSST Emulator: $P_\\mathrm{lin,tot}$"
+    ]
+  },
+  {
+    "objectID": "csstemu/csstemu_lin_tot.html#comparison-with-darkemulator2",
+    "href": "csstemu/csstemu_lin_tot.html#comparison-with-darkemulator2",
+    "title": "CSST Emulator: \\(P_\\mathrm{lin,tot}\\)",
+    "section": "",
+    "text": "compact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5",
+    "crumbs": [
+      "CSST Emulator",
+      "CSST Emulator: $P_\\mathrm{lin,tot}$"
+    ]
+  },
+  {
+    "objectID": "csstemu/csstemu_nl_tot.html",
+    "href": "csstemu/csstemu_nl_tot.html",
+    "title": "CSST Emulator: \\(P_\\mathrm{tot}\\)",
+    "section": "",
+    "text": "Code: GitHub\nDocumentation: Read the Docs\nPaper: arXiv:2502.11160\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\n\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5",
+    "crumbs": [
+      "CSST Emulator",
+      "CSST Emulator: $P_\\mathrm{tot}$"
+    ]
+  },
+  {
+    "objectID": "csstemu/csstemu_nl_tot.html#links",
+    "href": "csstemu/csstemu_nl_tot.html#links",
+    "title": "CSST Emulator: \\(P_\\mathrm{tot}\\)",
+    "section": "",
+    "text": "Code: GitHub\nDocumentation: Read the Docs\nPaper: arXiv:2502.11160\nSupports \\(\\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.",
+    "crumbs": [
+      "CSST Emulator",
+      "CSST Emulator: $P_\\mathrm{tot}$"
+    ]
+  },
+  {
+    "objectID": "csstemu/csstemu_nl_tot.html#comparison-with-darkemulator2",
+    "href": "csstemu/csstemu_nl_tot.html#comparison-with-darkemulator2",
+    "title": "CSST Emulator: \\(P_\\mathrm{tot}\\)",
+    "section": "",
+    "text": "compact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 1.5",
+    "crumbs": [
+      "CSST Emulator",
+      "CSST Emulator: $P_\\mathrm{tot}$"
+    ]
+  },
+  {
+    "objectID": "gokun/gokun_lin_tot.html",
+    "href": "gokun/gokun_lin_tot.html",
+    "title": "GokuNEmu: \\(P_\\mathrm{lin,tot}\\)",
+    "section": "",
+    "text": "Code: GokuNEmu GitHub\nPackage: PyPI\nPaper: arXiv:2507.07177\nRelated GP version: GokuEmu GitHub, arXiv:2501.06296\nSupports \\(N_\\mathrm{eff} \\alpha_s \\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\nIn the Goku simulations, neutrino masses are assumed to follow the normal hierarchy, rather than three degenerate masses as in many other emulators. For small total masses (\\(\\Sigma m_\\nu \\lesssim 0.2\\,\\mathrm{eV}\\)), this difference leads to small but non-negligible deviations, which should be taken into account when comparing results.\n\\(N_\\mathrm{eff}\\) and \\(\\alpha_s\\) are also input parameters; because DE2 does not vary them, they are fixed at \\(N_\\mathrm{eff}=3.044\\) and \\(\\alpha_s=0\\).\n\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
+    "crumbs": [
+      "GokuNEmu",
+      "GokuNEmu: $P_\\mathrm{lin,tot}$"
+    ]
+  },
+  {
+    "objectID": "gokun/gokun_lin_tot.html#links",
+    "href": "gokun/gokun_lin_tot.html#links",
+    "title": "GokuNEmu: \\(P_\\mathrm{lin,tot}\\)",
+    "section": "",
+    "text": "Code: GokuNEmu GitHub\nPackage: PyPI\nPaper: arXiv:2507.07177\nRelated GP version: GokuEmu GitHub, arXiv:2501.06296\nSupports \\(N_\\mathrm{eff} \\alpha_s \\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\nIn the Goku simulations, neutrino masses are assumed to follow the normal hierarchy, rather than three degenerate masses as in many other emulators. For small total masses (\\(\\Sigma m_\\nu \\lesssim 0.2\\,\\mathrm{eV}\\)), this difference leads to small but non-negligible deviations, which should be taken into account when comparing results.\n\\(N_\\mathrm{eff}\\) and \\(\\alpha_s\\) are also input parameters; because DE2 does not vary them, they are fixed at \\(N_\\mathrm{eff}=3.044\\) and \\(\\alpha_s=0\\).",
+    "crumbs": [
+      "GokuNEmu",
+      "GokuNEmu: $P_\\mathrm{lin,tot}$"
+    ]
+  },
+  {
+    "objectID": "gokun/gokun_lin_tot.html#comparison-with-darkemulator2",
+    "href": "gokun/gokun_lin_tot.html#comparison-with-darkemulator2",
+    "title": "GokuNEmu: \\(P_\\mathrm{lin,tot}\\)",
     "section": "",
     "text": "compact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
     "crumbs": [
-      "Aemulus",
-      "Aemulus $\\nu$: $P_\\mathrm{tot}$"
-    ]
-  },
-  {
-    "objectID": "gokun/gokun_nl_tot.html",
-    "href": "gokun/gokun_nl_tot.html",
-    "title": "GokuNEmu: \\(P_\\mathrm{tot}\\)",
-    "section": "",
-    "text": "https://github.com/astro-YYH/GokuNEmu\nhttps://arxiv.org/abs/2507.07177\n(GP version: https://github.com/astro-YYH/GokuEmu; https://arxiv.org/abs/2501.06296)\nSupports \\(N_\\mathrm{eff} \\alpha_s \\nu w_0 w_a \\mathrm{CDM}\\) cosmologies.\nIn the Goku simulations, neutrino masses are assumed to follow the normal hierarchy, rather than three degenerate masses as in many other emulators. For small total masses (Σmν ≲ 0.2 eV), this difference leads to small but non-negligible deviations, which should be taken into account when comparing results.\n\\(N_\\mathrm{eff}\\) and \\(\\alpha_s\\) are also input parameters; because DE2 does not vary them, they are fixed at \\(N_\\mathrm{eff}=3.044\\) and \\(\\alpha_s=0\\).\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
-    "crumbs": [
       "GokuNEmu",
-      "GokuNEmu: $P_\\mathrm{tot}$"
+      "GokuNEmu: $P_\\mathrm{lin,tot}$"
     ]
   },
   {
-    "objectID": "gokun/gokun_nl_tot.html#comparison-with-darkemulator2",
-    "href": "gokun/gokun_nl_tot.html#comparison-with-darkemulator2",
-    "title": "GokuNEmu: \\(P_\\mathrm{tot}\\)",
+    "objectID": "aletheia/aletheia_nl_tot.html",
+    "href": "aletheia/aletheia_nl_tot.html",
+    "title": "Aletheia: \\(P_\\mathrm{tot}\\)",
+    "section": "",
+    "text": "Code: GitLab\nDocumentation: MPCDF Pages\nPackage: PyPI\nPaper: arXiv:2511.13826\nSupports \\(w_0 w_a \\Omega_k \\mathrm{CDM}\\) cosmologies.\nIn Aletheia, spatial curvature is included as an input parameter, but once we allow for non-flat models the amplitudes of the linear and nonlinear matter power spectra become inconsistent. This comparison is limited to the flat universe model.\n\n\n\n\n\n  \n\ncompact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
+    "crumbs": [
+      "Aletheia",
+      "Aletheia: $P_\\mathrm{tot}$"
+    ]
+  },
+  {
+    "objectID": "aletheia/aletheia_nl_tot.html#links",
+    "href": "aletheia/aletheia_nl_tot.html#links",
+    "title": "Aletheia: \\(P_\\mathrm{tot}\\)",
+    "section": "",
+    "text": "Code: GitLab\nDocumentation: MPCDF Pages\nPackage: PyPI\nPaper: arXiv:2511.13826\nSupports \\(w_0 w_a \\Omega_k \\mathrm{CDM}\\) cosmologies.\nIn Aletheia, spatial curvature is included as an input parameter, but once we allow for non-flat models the amplitudes of the linear and nonlinear matter power spectra become inconsistent. This comparison is limited to the flat universe model.",
+    "crumbs": [
+      "Aletheia",
+      "Aletheia: $P_\\mathrm{tot}$"
+    ]
+  },
+  {
+    "objectID": "aletheia/aletheia_nl_tot.html#comparison-with-darkemulator2",
+    "href": "aletheia/aletheia_nl_tot.html#comparison-with-darkemulator2",
+    "title": "Aletheia: \\(P_\\mathrm{tot}\\)",
     "section": "",
     "text": "compact middle full\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\nz = 0.0 z = 0.2 z = 0.5 z = 1.0 z = 2.0",
     "crumbs": [
-      "GokuNEmu",
-      "GokuNEmu: $P_\\mathrm{tot}$"
+      "Aletheia",
+      "Aletheia: $P_\\mathrm{tot}$"
     ]
   },
   {
-    "objectID": "emu_emu/aemuale.html",
-    "href": "emu_emu/aemuale.html",
-    "title": "Aemulus \\(\\nu\\) vs Aletheia",
+    "objectID": "emu_emu/aemucsst.html",
+    "href": "emu_emu/aemucsst.html",
+    "title": "Aemulus \\(\\nu\\) vs CSST Emulator",
     "section": "",
-    "text": "Aemulus \\(\\nu\\) vs Aletheia\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
+    "text": "Aemulus \\(\\nu\\) vs CSST Emulator\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
     "crumbs": [
       "Emulator vs Emulator",
-      "Aemulus $\\nu$ vs Aletheia"
+      "Aemulus $\\nu$ vs CSST Emulator"
     ]
   },
   {
-    "objectID": "emu_emu/bcaemu.html",
-    "href": "emu_emu/bcaemu.html",
-    "title": "BaccoEmu vs Aemulus \\(\\nu\\)",
+    "objectID": "emu_emu/alecsst.html",
+    "href": "emu_emu/alecsst.html",
+    "title": "Aletheia vs CSST Emulator",
     "section": "",
-    "text": "BaccoEmu vs Aemulus \\(\\nu\\)\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
+    "text": "Aletheia vs CSST Emulator\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
     "crumbs": [
       "Emulator vs Emulator",
-      "BaccoEmu vs Aemulus $\\nu$"
+      "Aletheia vs CSST Emulator"
+    ]
+  },
+  {
+    "objectID": "emu_emu/bcale.html",
+    "href": "emu_emu/bcale.html",
+    "title": "BaccoEmu vs Aletheia",
+    "section": "",
+    "text": "BaccoEmu vs Aletheia\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
+    "crumbs": [
+      "Emulator vs Emulator",
+      "BaccoEmu vs Aletheia"
     ]
   },
   {
@@ -776,7 +1172,7 @@
     "href": "emu_emu/bcgokun.html",
     "title": "BaccoEmu vs GokuNEmu",
     "section": "",
-    "text": "BaccoEmu vs GokuNEmu\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
+    "text": "BaccoEmu vs GokuNEmu\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
     "crumbs": [
       "Emulator vs Emulator",
       "BaccoEmu vs GokuNEmu"
@@ -787,7 +1183,7 @@
     "href": "emu_emu/de2aemu.html",
     "title": "DarkEmulator2 vs Aemulus \\(\\nu\\)",
     "section": "",
-    "text": "DarkEmulator2 vs Aemulus \\(\\nu\\)\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
+    "text": "DarkEmulator2 vs Aemulus \\(\\nu\\)\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
     "crumbs": [
       "Emulator vs Emulator",
       "DarkEmulator2 vs Aemulus $\\nu$"
@@ -798,43 +1194,54 @@
     "href": "emu_emu/de2bc.html",
     "title": "DarkEmulator2 vs BaccoEmu",
     "section": "",
-    "text": "DarkEmulator2 vs BaccoEmu\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
+    "text": "DarkEmulator2 vs BaccoEmu\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
     "crumbs": [
       "Emulator vs Emulator",
       "DarkEmulator2 vs BaccoEmu"
     ]
   },
   {
-    "objectID": "emu_emu/de2gokun.html",
-    "href": "emu_emu/de2gokun.html",
-    "title": "DarkEmulator2 vs GokuNEmu",
+    "objectID": "emu_emu/de2ee2.html",
+    "href": "emu_emu/de2ee2.html",
+    "title": "DarkEmulator2 vs EuclidEmulator2",
     "section": "",
-    "text": "DarkEmulator2 vs GokuNEmu\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
+    "text": "DarkEmulator2 vs EuclidEmulator2\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
     "crumbs": [
       "Emulator vs Emulator",
-      "DarkEmulator2 vs GokuNEmu"
+      "DarkEmulator2 vs EuclidEmulator2"
     ]
   },
   {
-    "objectID": "emu_emu/ee2aemu.html",
-    "href": "emu_emu/ee2aemu.html",
-    "title": "EuclidEmulator2 vs Aemulus \\(\\nu\\)",
+    "objectID": "emu_emu/de2mtu.html",
+    "href": "emu_emu/de2mtu.html",
+    "title": "DarkEmulator2 vs Mira-Titan Universe IV",
     "section": "",
-    "text": "EuclidEmulator2 vs Aemulus \\(\\nu\\)\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
+    "text": "DarkEmulator2 vs Mira-Titan Universe IV\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
     "crumbs": [
       "Emulator vs Emulator",
-      "EuclidEmulator2 vs Aemulus $\\nu$"
+      "DarkEmulator2 vs Mira-Titan Universe IV"
     ]
   },
   {
-    "objectID": "emu_emu/ee2bc.html",
-    "href": "emu_emu/ee2bc.html",
-    "title": "EuclidEmulator2 vs BaccoEmu",
+    "objectID": "emu_emu/ee2ale.html",
+    "href": "emu_emu/ee2ale.html",
+    "title": "EuclidEmulator2 vs Aletheia",
     "section": "",
-    "text": "EuclidEmulator2 vs BaccoEmu\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
+    "text": "EuclidEmulator2 vs Aletheia\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
     "crumbs": [
       "Emulator vs Emulator",
-      "EuclidEmulator2 vs BaccoEmu"
+      "EuclidEmulator2 vs Aletheia"
+    ]
+  },
+  {
+    "objectID": "emu_emu/ee2csst.html",
+    "href": "emu_emu/ee2csst.html",
+    "title": "EuclidEmulator2 vs CSST Emulator",
+    "section": "",
+    "text": "EuclidEmulator2 vs CSST Emulator\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
+    "crumbs": [
+      "Emulator vs Emulator",
+      "EuclidEmulator2 vs CSST Emulator"
     ]
   },
   {
@@ -842,32 +1249,43 @@
     "href": "emu_emu/ee2mtu.html",
     "title": "EuclidEmulator2 vs Mira-Titan Universe IV",
     "section": "",
-    "text": "EuclidEmulator2 vs Mira-Titan Universe IV\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
+    "text": "EuclidEmulator2 vs Mira-Titan Universe IV\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
     "crumbs": [
       "Emulator vs Emulator",
       "EuclidEmulator2 vs Mira-Titan Universe IV"
     ]
   },
   {
-    "objectID": "emu_emu/mtuaemu.html",
-    "href": "emu_emu/mtuaemu.html",
-    "title": "Mira-Titan Universe IV vs Aemulus \\(\\nu\\)",
+    "objectID": "emu_emu/gokunale.html",
+    "href": "emu_emu/gokunale.html",
+    "title": "GokuNEmu vs Aletheia",
     "section": "",
-    "text": "Mira-Titan Universe IV vs Aemulus \\(\\nu\\)\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
+    "text": "GokuNEmu vs Aletheia\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
     "crumbs": [
       "Emulator vs Emulator",
-      "Mira-Titan Universe IV vs Aemulus $\\nu$"
+      "GokuNEmu vs Aletheia"
     ]
   },
   {
-    "objectID": "emu_emu/mtuale.html",
-    "href": "emu_emu/mtuale.html",
-    "title": "Mira-Titan Universe IV vs Aletheia",
+    "objectID": "emu_emu/mtuagokun.html",
+    "href": "emu_emu/mtuagokun.html",
+    "title": "Mira-Titan Universe IV vs GokuNEmu",
     "section": "",
-    "text": "Mira-Titan Universe IV vs Aletheia\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
+    "text": "Mira-Titan Universe IV vs GokuNEmu\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
     "crumbs": [
       "Emulator vs Emulator",
-      "Mira-Titan Universe IV vs Aletheia"
+      "Mira-Titan Universe IV vs GokuNEmu"
+    ]
+  },
+  {
+    "objectID": "emu_emu/mtucsst.html",
+    "href": "emu_emu/mtucsst.html",
+    "title": "Mira-Titan Universe IV vs CSST Emulator",
+    "section": "",
+    "text": "Mira-Titan Universe IV vs CSST Emulator\n\nPairwise comparison of total matter \\(P_\\mathrm{tot}(k)\\). Each entry compares the row emulator with the column emulator.\n\n\n\n\n\nrow / column\nDE2\nEE2\nBaccoEmu\nMTU IV\nAemulus \\(\\nu\\)\nGokuNEmu\nAletheia\nCSST Emulator\n\n\n\n\nEE2\nDE2 vs EE2\n-\n-\n-\n-\n-\n-\n-\n\n\nBaccoEmu\nDE2 vs BaccoEmu\nEE2 vs BaccoEmu\n-\n-\n-\n-\n-\n-\n\n\nMTU IV\nDE2 vs MTU IV\nEE2 vs MTU IV\nBaccoEmu vs MTU IV\n-\n-\n-\n-\n-\n\n\nAemulus \\(\\nu\\)\nDE2 vs Aemulus \\(\\nu\\)\nEE2 vs Aemulus \\(\\nu\\)\nBaccoEmu vs Aemulus \\(\\nu\\)\nMTU IV vs Aemulus \\(\\nu\\)\n-\n-\n-\n-\n\n\nGokuNEmu\nDE2 vs GokuNEmu\nEE2 vs GokuNEmu\nBaccoEmu vs GokuNEmu\nMTU IV vs GokuNEmu\nAemulus \\(\\nu\\) vs GokuNEmu\n-\n-\n-\n\n\nAletheia\nDE2 vs Aletheia\nEE2 vs Aletheia\nBaccoEmu vs Aletheia\nMTU IV vs Aletheia\nAemulus \\(\\nu\\) vs Aletheia\nGokuNEmu vs Aletheia\n-\n-\n\n\nCSST Emulator\nDE2 vs CSST Emulator\nEE2 vs CSST Emulator\nBaccoEmu vs CSST Emulator\nMTU IV vs CSST Emulator\nAemulus \\(\\nu\\) vs CSST Emulator\nGokuNEmu vs CSST Emulator\nAletheia vs CSST Emulator\n-\n\n\n\n\n\n\n \n\nN=100 N=500\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nz = 0.0 z = 0.5 z = 1.0",
+    "crumbs": [
+      "Emulator vs Emulator",
+      "Mira-Titan Universe IV vs CSST Emulator"
     ]
   },
   {
